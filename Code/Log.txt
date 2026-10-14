@@ -1,0 +1,9 @@
+Program Started Successfully
+OPENGL INFORMATION
+******************
+OpenGL Vendor : NVIDIA Corporation
+OpenGL Renderer : NVIDIA GeForce RTX 3060 Laptop GPU/PCIe/SSE2
+OpenGL Version : 4.6.0 NVIDIA 592.27
+******************
+Initialize() Completed Successfully
+Program Terminated Successfully
